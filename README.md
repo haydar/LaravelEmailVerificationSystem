@@ -12,4 +12,4 @@ The application to send a verification email when a user is registered.
 
 **Custom E-mail**
 
-Edit `resources\views\emails\user\newuserverification.blade.php` for basic customization.
+Edit `resources\views\emails\user\newuserverification.blade.php` for basic customization. If you want advanced customization [check official documention](https://laravel.com/docs/5.6/mail#markdown-mailables)
